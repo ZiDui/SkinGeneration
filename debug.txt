@@ -1,0 +1,178 @@
+Traceback (most recent call last):
+  File "E:\AutoSkinK\AutoSkin\main.py", line 17, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkinK\AutoSkin\Pack\AKForm.py", line 116, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 116, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 116, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 116, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 116, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 10, in __init__
+    wx.Frame.__init__ ( self, parent, id = wx.ID_ANY, title = wx.EmptyString, pos = wx.DefaultPosition, size = wx.Size( 300,400 ), style = wx.DEFAULT_FRAME_STYLE|wx.TAB_TRAVERSAL )
+UnboundLocalError: local variable 'wx' referenced before assignment
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 10, in __init__
+    wx.Frame.__init__ ( self, parent, id = wx.ID_ANY, title = wx.EmptyString, pos = wx.DefaultPosition, size = wx.Size( 300,400 ), style = wx.DEFAULT_FRAME_STYLE|wx.TAB_TRAVERSAL )
+UnboundLocalError: local variable 'wx' referenced before assignment
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 10, in __init__
+    wx.Frame.__init__ ( self, parent, id = wx.ID_ANY, title = wx.EmptyString, pos = wx.DefaultPosition, size = wx.Size( 300,400 ), style = wx.DEFAULT_FRAME_STYLE|wx.TAB_TRAVERSAL )
+UnboundLocalError: local variable 'wx' referenced before assignment
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 127, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 127, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 127, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 127, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 115, in __init__
+    bSizer2.Add( gbSizer7, 1, wx.EXPAND|wx.ALIGN_RIGHT|wx.RIGHT|wx.LEFT, 5 )
+wx._core.wxAssertionError: C++ assertion "CheckSizerFlags(!((flags) & (wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL)))" failed at ..\..\src\common\sizer.cpp(2294) in wxBoxSizer::DoInsert(): wxALIGN_RIGHT | wxALIGN_CENTRE_HORIZONTAL | wxALIGN_BOTTOM | wxALIGN_CENTRE_VERTICAL will be ignored in this sizer: wxEXPAND overrides alignment flags in box sizers
+
+DO NOT PANIC !!
+
+If you're an end user running a program not developed by you, please ignore this message, it is harmless, and please try reporting the problem to the program developers.
+
+You may also set WXSUPPRESS_SIZER_FLAGS_CHECK environment variable to suppress all such checks when running this program.
+
+If you're the developer, simply remove this flag from your code to avoid getting this message. You can also call wxSizerFlags::DisableConsistencyChecks() to globally disable all such checks, but this is strongly not recommended.
+OnInit returned false, exiting...
+Traceback (most recent call last):
+  File "E:\AutoSkin\main.py", line 16, in OnInit
+    self.Frame = AKForm.MyFrame1(None)
+  File "E:\AutoSkin\Pack\AKForm.py", line 23, in __init__
+    self.SetAppName(u"自动生成皮肤  籽怼")
+AttributeError: 'MyFrame1' object has no attribute 'SetAppName'. Did you mean: 'SetName'?
+OnInit returned false, exiting...
