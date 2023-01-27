@@ -15,3 +15,7 @@
 #### 使用说明
 
 点击Main文件运行程序
+
+#### 联系作者
+QQ：2702114947
+邮箱：ZiDuiMinecraft@outlook.com
